@@ -1,0 +1,22 @@
+# Env
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Node
+node_modules/
+frontend/dist/
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
